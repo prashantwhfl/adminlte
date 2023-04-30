@@ -1,0 +1,35 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59 59" width="59" height="59">
+	<title>no-surprise-fees-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #8dc63f;stroke-width: 1.9 } 
+	</style>
+	<g id="Folder 1">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m35.4 23.6c0-3.3-2.6-6-5.9-6-3.3 0-5.9 2.7-5.9 6 0 3.2 2.9 4.4 5.9 5.9 3 1.5 5.9 2.7 5.9 5.9 0 3.3-2.6 6-5.9 6-3.3 0-5.9-2.7-5.9-6"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m29.5 17.6v-4.4"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m29.5 41.4v4.4"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m14.6 29.5h3"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m41.4 29.5h3"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m37.1 3c11.5 3.3 19.9 13.8 19.9 26.4 0 15.2-12.3 27.5-27.5 27.5-15.2 0-27.5-12.3-27.5-27.5 0-12.6 8.4-23.1 19.9-26.4"/>
+		</g>
+		<g id="Layer">
+			<circle id="Layer" class="s0" cx="29.5" cy="29.4" r="22.8"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m5.4 42.8c-5.8-10.4-4.2-23.9 4.7-32.7 10.7-10.8 28.1-10.8 38.9 0 10.7 10.7 10.7 28.1 0 38.8-8.9 8.9-22.4 10.5-32.8 4.7"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m2 14.8l55 29.4"/>
+		</g>
+	</g>
+</svg>

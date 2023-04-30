@@ -1,0 +1,186 @@
+
+@media screen and (max-height: 450px) {
+
+}
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 767px) { 
+
+a.closebtn {
+    display: block !important;
+}
+.dogleclick {
+    display: block;
+    position: absolute;
+    right: 22px;
+    margin-top: 10px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #f7921e;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #ffffff;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/******/
+
+.topbar-list { text-align: center;}
+ul.social-list { text-align: center;}
+.btnsam {  display: none;}
+.value-block:before { display: none; }
+.frequent_image img, 
+.wedding_image img,
+.wedding_gallery img  { width: 100%;}
+.wedding_celebralionl h2 span {  padding-left: 0;}
+.midlebar-layout .logo { display: none; }
+.contact-info { padding-bottom: 10px;}
+.icon-box .fa {font-size: 30px;}
+.mobilelogo { display: inline-block;  width: 30%;}
+.mobilelogo img { width: 60px;}
+.menubar-list {width: 66%;}
+.home-block { height: 540px;}
+.value-block h1 {font-size: 72px; line-height: 60px;}
+.bg_heading { color: #f7921e;}
+.value-block p { width: 100%;}
+.value-block { padding-top: 5em; padding-bottom: 5em;}
+.same-textall h2 { font-size: 52px;line-height: 46px;}
+.same-textall h2 .image-left { width: 100%;}
+.same-textall h2 .image-left img { max-width: 120px;}
+.same-textall p { width: 100%; padding-bottom: 20px;}
+.events_btn .radius_btn { padding-bottom: 15px;}
+.events_btn { padding: 30px 0;}
+.wedding_location { padding: 30px 0;}
+.location-events p { width: 90%;}
+.location-events h3 {font-size: 26px;padding-bottom: 10px;}
+.event_planner {padding: 40px 0;}
+.planner-events h4 { font-size: 44px;}
+.planner-events {margin-bottom: 40px;}
+.plan_wedding {  padding-left: 0;}
+.plan_image img { width: 100%;}
+.plan_text { margin-left: 20px;    width: 79%;}
+.plan_image:before { display: none; }
+.wedding_celebralionl {padding: 50px 0;}
+.wedding_celebralionl h4 { padding-left: 0; position: unset;text-align: center;}
+.content_from { margin-top: -110px; padding: 0 30px;}
+.from_home {padding: 35px 25px; background: #fff; box-shadow: 0px 0px 5px 0px #f2f2f2;}
+.wedding_celebralionl .radius_btn { text-align: center;}
+.contactform  .btn-fill { margin-bottom: 10px;}
+.wedding_testnomal { padding-top: 50px;}
+.frequent_content h4 {font-size: 42px;margin-top: 15px;}
+.footer { padding: 50px 0;}
+.slide_testnomal .carousel-caption p {width: 90%;}
+.slide_testnomal .carousel-item { padding-bottom: 40%;  margin-bottom: 100px;}
+.slide_testnomal .carousel-caption {bottom: -100px;}
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) { 
+
+.planner-events h4 span { width: 30%;}
+.plan_image:before {height: 163px;left: 46px;}
+.event_planner { padding: 60px 0;}
+.planner-events { margin-bottom: 35px;}
+.same-textall h2 { font-size: 52px;}
+.same-textall h2 .image-left { width: 20%;}
+.planner-events h4 { font-size: 52px;}
+.same-textall h2 .image-left img { width: 100%;}
+.from_home {padding: 35px 25px; background: #fff; box-shadow: 0px 0px 5px 0px #f2f2f2;}
+.content_from { margin-top: -170px;}
+.wedding_celebralionl .radius_btn { text-align: center;}
+.btn-fill > span > span {padding: 7px 20px;}
+.menubar-list {width: 77%;}
+.sidenav a { padding: 0 8px 0 0; font-size: 15px;}
+.btnsam {width: 23%;}
+.home-block { height: 670px;}
+.value-block {padding-bottom: 8em;}
+.value-block:before { display: none; }
+.bg_heading { color: #f7921e;}
+.same-textall p { width: 80%;}
+.frequent_content { padding-top: 30px;}
+.widget_heading h4 {font-size: 24px;}
+.footer { padding: 60px 0;}
+.location-events {padding-bottom: 20px;}
+.slide_testnomal .carousel-item { padding-bottom: 20%;margin-bottom: 80px;}
+.slide_testnomal .carousel-caption {bottom: -50px;}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1400px) { 
+
+.sidenav a {padding: 0 25px 0 0;}
+
+
+}
+
+
+@media only screen and (min-width: 1366px) and (max-width: 1400px) { 
+
+.home-block { height: 840px;}
+.value-block { padding-bottom: 8em;}
+.value-block:before {left: -70px; width: 620px;}
+.frequent_image img { width: 100%;}
+
+
+
+
+
+
+
+
+
+
+}
+

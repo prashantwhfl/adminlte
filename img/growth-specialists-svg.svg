@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 63" width="62" height="63">
+	<title>growth-specialists-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #8dc63f;stroke-width: 1.9 } 
+	</style>
+	<g id="Folder 1">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m1.5 61.5v-4.8h19v4.8"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m20.5 53.9v-2.9h19.1v10.5"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m39.6 48.2v-2.9h20.9v16.2"/>
+		</g>
+		<g id="Layer">
+			<circle id="Layer" class="s0" cx="28.1" cy="5.3" r="3.8"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m23.4 14.8l-7.6 1.9-5.8 5.8-2.8-2.9 6.7-6.7 10.4-2.8"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m29.1 12h6.7l5.7-5.7 2.8 2.8-6.6 6.7-8.6 0.9-1.9 6.7 9.5 4.8 4.8 10.4-3.8 1.9-5.7-9.5-7.7-1.9"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m25.3 27.2l-2.9 9.5-10.4 8.6-2.9-2.8 7.6-7.7 2.9-8.5 1-10.8"/>
+		</g>
+	</g>
+</svg>
